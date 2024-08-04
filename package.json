@@ -1,0 +1,40 @@
+{
+  "name": "pie-chart-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.9.3",
+    "chart.js": "^4.4.3",
+    "lucide": "^0.420.0",
+    "lucide-react": "^0.420.0",
+    "next": "14.2.5",
+    "ngx-countdown": "^18.0.0",
+    "react": "^18",
+    "react-canvas-confetti": "^2.0.7",
+    "react-chartjs-2": "^5.2.0",
+    "react-confetti": "^6.1.0",
+    "react-confetti-explosion": "^2.1.2",
+    "react-countdown": "^2.3.5",
+    "react-dom": "^18",
+    "react-live-clock": "^6.1.23-beta",
+    "react-use": "^17.5.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "postcss": "^8",
+    "prettier": "^3.3.3",
+    "prettier-plugin-tailwindcss": "^0.6.5",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
